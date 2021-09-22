@@ -1,0 +1,8 @@
+- Hola me presento mi nombre completo es Jorge Nicolas Ortéz Vazquez.
+- Estudie Licenciatura en Ingenieria en Informática.
+- ¿Porque m gusta la programacion? fue mas que nada por saber y aprender como es el desarrollo de los videojuegos.
+- Sigo aprendiendo por mi propia cuenta, pues me llama mas la atencion el desarrollo de aplicaciones de escritorio, APIS y desarrollo moviles por el momento no.
+- Mi habilidades son basicas (Java, y .Net C Sharp) Visual Studio y NetBeans.
+- Aun no cuento con un portafolio de trabajos, pero en cuanto tenga varios de mis proyectos o practicas los compartire con la comunidad.
+- Mis pasatiempos favoritos son los videojuegos, la musica y tocar guitarra.
+- GamerTag #RyzenZero.
